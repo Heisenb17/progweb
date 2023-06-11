@@ -1,0 +1,63 @@
+body {
+   background-image: url(img/tms.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+   height: 100vh;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+   color: white;
+}
+table {
+   width: 95%;
+}
+.iconopag {
+   float: left;
+   width: 210px;
+   height: 105px;
+   padding-left: 95px;
+}
+.barra {
+   width: 6%;
+   text-align: center;
+}
+.presentacion {
+   width: 660px;
+   height: 370px;
+   margin-left: 115px;
+   margin-top: 20px;
+   text-align: left;
+   font-size: 15px;
+}
+.aaa {
+   color: #9b9b9b;
+   width: 220px;
+}
+.rojo1 {
+   background-color: #dc143c;
+   color: white;
+   width: 20%;
+   text-align: center;
+   border-radius: 2px;
+}
+.bbb {
+   width: 100px;
+   
+}
+.rojo2 {
+   background-color: #dc143c;
+   color: white;
+   width: 90px;
+   height: 35px;
+   margin-top: 10px;
+}
+.transparente {
+   opacity: 0.65;
+   background-color: black;
+   width: 115px;
+   height: 35px;
+   color: white;
+   margin-left: 15px;
+   margin-top: 10px;
+}
